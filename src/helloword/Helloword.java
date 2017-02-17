@@ -17,6 +17,7 @@ public class Helloword {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("helloword.Helloword.main()");
+        System.out.println("helloword.Helloword.main() mmm");
     }
     
 }
